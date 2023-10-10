@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+ 
+
+.texto1{
+  background-color: blue;
+  width: 842px;
+  height: 128px;
+  
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+
