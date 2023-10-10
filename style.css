@@ -15,17 +15,15 @@
   --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
 }
 
- 
-
-.texto1{
-  background-color: blue;
-  width: 842px;
-  height: 128px;
-  
-
+.textos{
   display: flex;
-  flex-direction: column;
   justify-content: center;
-  
+  flex-direction: column;
+  align-items: center;
+}
+
+.texto{
+  width: 842px;
+  height: 126px;
 }
 
